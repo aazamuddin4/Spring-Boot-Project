@@ -65,7 +65,7 @@
         - [x] JPA
         - [x] MySQL
         - [x] Thymeleaf
-* [x] Bootsrap
+* [x] Bootstrap
 * [x] (Xampp - `localhost/dashboard`)
 * [x] Data base creator at phpMyAdmin
 * [x] Eclipse IDE
