@@ -1,35 +1,25 @@
-# Spring-Boot-Project
-Includes extensible API to generate JVM-based projects, and to inspect the metadata used to generate projects, for instance to list the available dependencies and versions
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/aazamuddin4/]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdzone.com%2Farticles%2Fwhat-is-spring-boot&psig=AOvVaw3Rb7yT7HxIXmOxi_e8wXeS&ust=1624417191638000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLCXmd-fqvECFQAAAAAdAAAAABAD" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Spring Boot Project</h3>
 
   <p align="center">
-    project_description
+    Includes extensible API to generate JVM-based projects, and to inspect the metadata used to generate projects, for instance to list the available dependencies and versions
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/aazamuddin4/Spring-Boot-Project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/aazamuddin4/Spring-Boot-Project">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/aazamuddin4/Spring-Boot-Project/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/aazamuddin4/Spring-Boot-Project/issues">Request Feature</a>
   </p>
 </p>
 
@@ -55,7 +45,6 @@ Includes extensible API to generate JVM-based projects, and to inspect the metad
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -66,18 +55,19 @@ Includes extensible API to generate JVM-based projects, and to inspect the metad
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
+[![Product Name Screen Shot][product-screenshot]](https://i.imgur.com/SBl70J1.png)
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [x] (Spring Initializr)
+    -Extension used:
+        - [x] Spring Web
+        - [x] JPA
+        - [x] MySQL
+        - [x] Thymeleaf
+* [x] (Xampp - `localhost/dashboard`)
+* [x] Data base creator at phpMyAdmin
+* [x] Eclipse IDE
 
 
 
@@ -86,19 +76,12 @@ Here's a blank template to get started:
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/aazamuddin4/Spring-Boot-Project.git
    ```
 2. Install NPM packages
    ```sh
@@ -110,16 +93,13 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+This project is basically for inserting data automatically into database. The creation of database is at zero dataframe at first but when the user enter their data, it will automatically stored to the database in phyMyAdmin that can later extracted to our local docs.
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/aazamuddin4/Spring-Boot-Project/issues) for a list of proposed features (and known issues).
 
 
 
@@ -135,29 +115,23 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Email - [andiazamuddin@gmail.com]
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Twitter - [@aaxamuddin](https://twitter.com/aaxamuddin)
+
+Project Link: [https://www.linkedin.com/in/aazamuddin4/](https://www.linkedin.com/in/aazamuddin4/)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [x] [TutusFunny](https://www.tutussfunny.com/spring-boot-project-using-mysql-database/)
+* [](None)
+* [](None)
 
 
 
@@ -165,15 +139,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://www.linkedin.com/in/aazamuddin4/
