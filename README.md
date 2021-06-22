@@ -1,10 +1,10 @@
-![LinkedIn](https://www.linkedin.com/in/aazamuddin4/)
+[LinkedIn](https://www.linkedin.com/in/aazamuddin4/)
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="![](https://www.endivesoftware.com/blog/wp-content/uploads/2020/01/Spring-Boot-Application-Development.png)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Spring Boot Project</h3>
