@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/aazamuddin4/]
+![LinkedIn](https://www.linkedin.com/in/aazamuddin4/)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://i.imgur.com/SBl70J1.png)
+![](https://i.imgur.com/SBl70J1.png)
 
 ### Built With
 
@@ -118,7 +118,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Email - [andiazamuddin@gmail.com]
+Email - andiazamuddin@gmail.com
 
 Twitter - [@aaxamuddin](https://twitter.com/aaxamuddin)
 
@@ -132,3 +132,11 @@ Project Link: [https://www.linkedin.com/in/aazamuddin4/](https://www.linkedin.co
 * [TutusFunny](https://www.tutussfunny.com/spring-boot-project-using-mysql-database/)
 * (None)
 * (None)
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[linkedin-url]: https://www.linkedin.com/in/aazamuddin4/
