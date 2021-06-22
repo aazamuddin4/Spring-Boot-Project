@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="![](https://www.endivesoftware.com/blog/wp-content/uploads/2020/01/Spring-Boot-Application-Development.png)" alt="Logo" width="80" height="80">
+    <img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Spring Boot Project</h3>
@@ -60,7 +60,7 @@
 ### Built With
 
 * [x] (Spring Initializr)
-    - Extension used:
+    - Dependencies used:
         - [x] Spring Web
         - [x] JPA
         - [x] MySQL
