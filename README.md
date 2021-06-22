@@ -60,7 +60,7 @@
 ### Built With
 
 * [x] (Spring Initializr)
-    -Extension used:
+    - Extension used:
         - [x] Spring Web
         - [x] JPA
         - [x] MySQL
@@ -129,14 +129,6 @@ Project Link: [https://www.linkedin.com/in/aazamuddin4/](https://www.linkedin.co
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [x] [TutusFunny](https://www.tutussfunny.com/spring-boot-project-using-mysql-database/)
-* [](None)
-* [](None)
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-url]: https://www.linkedin.com/in/aazamuddin4/
+* [TutusFunny](https://www.tutussfunny.com/spring-boot-project-using-mysql-database/)
+* (None)
+* (None)
