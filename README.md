@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" alt="Logo" width="80" height="80">
+    <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Spring Boot Project</h3>
